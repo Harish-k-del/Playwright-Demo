@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "opencode-windows-x64": "^1.14.41",
+    "opencode-windows-x64-baseline": "^1.14.41"
+  }
+}
